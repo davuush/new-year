@@ -1,100 +1,41 @@
 body{
-     ;
-
+    background-color: lightseagreen;
 }
-.h{
-    margin-left: 625px;
-    color: lightskyblue;
-    
-}
-.leftpeace{
-max-width: 300px;
-}
-
-
-
 .navbar{
-
-}
-.img{
-    display: flex;
-    justify-content: space-between;
-        
-}
-.imgh{
-    display: flex;
-    justify-content: space-between;
-        
-}
-.abNewY{
-    max-width: 400px;
-    margin-top: 20px;
-}
-img{
+    background-color: lightskyblue;
+    width: 100%;
     border-radius: 30px;
-
-}
-
-.card1{
-    max-width: 250px;
-    background-color: lightgray;
-    border-radius: 30px;
-}
-.img1{
-    max-width: 250px;
-    
-}
-.p1{
-    margin: 0px 0px 8px 10px;
-    max-width: 40px;
-}
-.button{
-    max-width: 60px;
-    margin-left: 160px;
-
-}
-
-.arrow{
-    max-width: 25px;
-    max-height: 20px;
-}
-.txt{
-    margin-left: 625px;
-}
-.img2{
-    margin-left: 12px;
-}
-.line1{
-    display: flex;
-    justify-content: space-between;
-
-}
-.line2{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 50px;
-}
-.img3{
-  
-}
-.line3{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 50px;
-}
-.christmas{
-    margin-left: 675px;
-}
-.christmasline1{
     display: flex;
     justify-content: space-between;
 }
-.christmasline2{
-    display: flex;
-    justify-content: space-between;
+.NewYear{
+    width: 600px;
+    height: 300px; 
     margin-top: 25px;
+    margin-left: 425px;
+    border-radius: 15px;
 }
-.abChr{
-    max-width: 400px;
-    margin-top: 20px;
+.f1{
+margin-left: 550px;
+}
+.Christmas{
+    width: 600px;
+    height: 300px; 
+    margin-top: 25px;
+    margin-left: 425px;
+    border-radius: 15px;
+}
+.Holydinner{
+    width: 600px;
+    height: 300px; 
+    margin-top: 25px;
+    margin-left: 425px;
+    border-radius: 15px;
+}
+.SaintNicholas{
+    width: 400px;
+    height: 300px; 
+    margin-top: 25px;
+    margin-left: 525px;
+    border-radius: 15px;
 }
